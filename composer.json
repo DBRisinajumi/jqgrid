@@ -1,0 +1,9 @@
+{
+    "name": "dbrisinajumi/jqgrid",
+    "description": "Base on JqGrid, easy Yii JqGrid extension",
+    "keywords": ["JqGris","yii"],
+    "type": "yii-extension",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
